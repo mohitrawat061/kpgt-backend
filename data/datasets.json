@@ -1,0 +1,37 @@
+{
+  "CC": {
+    "esol": -0.76,
+    "tox21": "Non-Toxic",
+    "lipophilicity": 2.1,
+    "binding_affinity": 5.8,
+    "bioavailability": 0.92
+  },
+  "O=C=O": {
+    "esol": 0.23,
+    "tox21": "Toxic",
+    "lipophilicity": -0.3,
+    "binding_affinity": 4.1,
+    "bioavailability": 0.78
+  },
+  "CCO": {
+    "esol": -0.56,
+    "tox21": "Non-Toxic",
+    "lipophilicity": 1.7,
+    "binding_affinity": 6.2,
+    "bioavailability": 0.88
+  },
+  "CN(C)C": {
+    "esol": -1.1,
+    "tox21": "Toxic",
+    "lipophilicity": 1.4,
+    "binding_affinity": 4.9,
+    "bioavailability": 0.81
+  },
+  "C1=CC=CC=C1": {
+    "esol": -0.9,
+    "tox21": "Non-Toxic",
+    "lipophilicity": 2.4,
+    "binding_affinity": 5.5,
+    "bioavailability": 0.93
+  }
+}
