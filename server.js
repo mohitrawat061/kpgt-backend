@@ -10,5 +10,5 @@ app.use(express.json());
 app.use("/api", apiRoutes);
 
 app.listen(PORT, () => {
-  console.log(`Mock API server running at http://localhost:${PORT}`);
+  console.log(`Mock API server running at https://kpgt-backend.onrender.com`);
 });
